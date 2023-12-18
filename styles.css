@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    min-width: 50vh;
+}
+
+.container {
+    margin: auto;
+    padding: 2rem;
+    background-color: aqua;
+    max-width: 600px;
+}
+
+.heading {
+    text-align: center;
+    text-shadow: 4px 4px 4px black;
+    color: chartreuse;
+}
+
+label {
+    text-align: center;
+    width: auto;
+    margin: auto;
+    padding: 2rem;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+input {
+    text-align: center;
+    width: auto;
+    margin: auto;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    display: block;
+    font-weight: bold;
+}
+
+button {
+    text-align: center;
+    margin: auto;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: block;
+    margin-top: 2rem;
+    font-weight: bold;
+    border-color: black;
+    bo
+    
+}
+
+#output-box {
+    text-align: center;
+    padding: 1rem;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+ /* footer */
+
+ footer {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  footer p {
+    font-size: large;
+    text-align: center;
+  }
+  
+  .footer-list {
+    margin: 1rem;
+  }
+  
+  img, li {
+    display: inline;
+  }
+
+  a {
+    text-decoration: none;
+    display: inline;
+  }
+  
+  img {
+    width: 50px;
+    padding: 0.4rem;
+  }
